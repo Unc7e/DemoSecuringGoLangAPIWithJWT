@@ -1,5 +1,0 @@
-{
-    "PrivateKeyPath": "/Users/leon/Documents/Projects/GoLang/DemoSecuringGOLangAPIWithJWT/settings/keys/private_key",
-    "PublicKeyPath": "/Users/leon/Documents/Projects/GoLang/DemoSecuringGOLangAPIWithJWT/settings/keys/public_key.pub",
-    "JWTExpirationDelta": 72
-}
